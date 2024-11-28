@@ -11,7 +11,6 @@ public class ChatServer {
     private static final Map<String, PrintWriter> clients = new ConcurrentHashMap<>();
 
     public static void main(String[] args) {
-        // Создание папки для логов, если она не существует
         File logDirectory = new File("src/main/resources/org/example/socket_serversocket/logs");
         if (!logDirectory.exists()) {
             boolean dirCreated = logDirectory.mkdirs();
@@ -24,7 +23,6 @@ public class ChatServer {
 
         Properties properties = new Properties();
 
-        // Загрузка конфигурации сервера
         InputStream input = ChatServer.class.getResourceAsStream("/org/example/socket_serversocket/server.properties");
         if (input == null) {
             logger.error("Файл server.properties не найден.");
