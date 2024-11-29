@@ -4,21 +4,41 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cdbf347-92ef-4e55-b165-b14a4773702b" name="Changes" comment="first" />
+    <list default="true" id="8cdbf347-92ef-4e55-b165-b14a4773702b" name="Changes" comment="miay">
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/socket_serversocket/ChatClientsRegistry.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/socket_serversocket/ClientHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/socket_serversocket/MessageHandler.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/socket_serversocket/ServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/socket_serversocket/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/socket_serversocket/ChatServer.java" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
   <component name="Git.Settings">
     <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
   </component>
-  <component name="GithubPullRequestsUISettings"><![CDATA[{
-  "selectedUrlAndAccountId": {
-    "url": "https://github.com/naflexsil/socket_ServerSocket.git",
-    "accountId": "d8e2c670-d6a3-45e6-a1b0-621c016b711e"
+  <component name="GitHubPullRequestSearchHistory">{
+  &quot;lastFilter&quot;: {
+    &quot;state&quot;: &quot;OPEN&quot;,
+    &quot;assignee&quot;: &quot;naflexsil&quot;
   }
-}]]></component>
+}</component>
+  <component name="GithubPullRequestsUISettings">{
+  &quot;selectedUrlAndAccountId&quot;: {
+    &quot;url&quot;: &quot;https://github.com/naflexsil/socket_ServerSocket.git&quot;,
+    &quot;accountId&quot;: &quot;d8e2c670-d6a3-45e6-a1b0-621c016b711e&quot;
+  }
+}</component>
   <component name="MavenImportPreferences">
     <option name="generalSettings">
       <MavenGeneralSettings>
@@ -110,12 +130,21 @@
       <option name="project" value="LOCAL" />
       <updated>1732799642896</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="miay">
+      <option name="closed" value="true" />
+      <created>1732799813570</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1732799813570</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
-    <option name="LAST_COMMIT_MESSAGE" value="first" />
+    <MESSAGE value="miay" />
+    <option name="LAST_COMMIT_MESSAGE" value="miay" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/socket_ServerSocket$ChatClient.ic" NAME="ChatClient Coverage Results" MODIFIED="1732551896480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">
