@@ -4,13 +4,11 @@
     <option name="autoReloadType" value="SELECTIVE" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="8cdbf347-92ef-4e55-b165-b14a4773702b" name="Changes" comment="miay">
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/socket_serversocket/ChatClientsRegistry.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/socket_serversocket/ClientHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/socket_serversocket/MessageHandler.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/main/java/org/example/socket_serversocket/ServerConfig.java" afterDir="false" />
+    <list default="true" id="8cdbf347-92ef-4e55-b165-b14a4773702b" name="Changes" comment="eddit">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/java/org/example/socket_serversocket/ChatServer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/socket_serversocket/ChatServer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/org/example/socket_serversocket/ServerConfig.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/org/example/socket_serversocket/ServerConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resources/org/example/socket_serversocket/logback.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resources/logback.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -72,6 +70,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\StaRR\IdeaProjects\socket_ServerSocket\src\main\resources" />
       <recent name="C:\Users\StaRR\IdeaProjects\socket_ServerSocket\src\main\resources\org\example\socket_serversocket" />
       <recent name="C:\Users\StaRR\IdeaProjects\socket_ServerSocket\src\main\java\org\example\socket_serversocket" />
     </key>
@@ -138,13 +137,22 @@
       <option name="project" value="LOCAL" />
       <updated>1732799813570</updated>
     </task>
-    <option name="localTasksCounter" value="3" />
+    <task id="LOCAL-00003" summary="eddit">
+      <option name="closed" value="true" />
+      <created>1732868057042</created>
+      <option name="number" value="00003" />
+      <option name="presentableId" value="LOCAL-00003" />
+      <option name="project" value="LOCAL" />
+      <updated>1732868057042</updated>
+    </task>
+    <option name="localTasksCounter" value="4" />
     <servers />
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="first" />
     <MESSAGE value="miay" />
-    <option name="LAST_COMMIT_MESSAGE" value="miay" />
+    <MESSAGE value="eddit" />
+    <option name="LAST_COMMIT_MESSAGE" value="eddit" />
   </component>
   <component name="com.intellij.coverage.CoverageDataManagerImpl">
     <SUITE FILE_PATH="coverage/socket_ServerSocket$ChatClient.ic" NAME="ChatClient Coverage Results" MODIFIED="1732551896480" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="true">

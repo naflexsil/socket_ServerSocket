@@ -15,6 +15,7 @@ public record ServerConfig(String host, int port) {
             properties.load(input);
             String host = properties.getProperty("server.host", "localhost");
             int port = Integer.parseInt(properties.getProperty("server.port", "12345"));
+
             return new ServerConfig(host, port);
         } catch (IOException e) {
             throw new RuntimeException("Ошибка загрузки конфигурации: " + e.getMessage(), e);
